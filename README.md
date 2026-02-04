@@ -11,7 +11,7 @@
 
 ## 🎯 What Makes This Different
 
-- **Copilot-Specific:** Every prompt optimized for Microsoft 365 Copilot (Word, Excel, PowerPoint, Outlook, Teams)
+- **Copilot-Specific:** Every prompt optimized for Microsoft Copilot
 - **Role-Based:** Organized by job function, not random categories
 - **Enterprise-Ready:** Real prompts from production deployments, not theoretical examples
 - **Context-Aware:** Each prompt includes use case, target personas, and expected outcomes
