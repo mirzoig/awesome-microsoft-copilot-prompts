@@ -156,13 +156,13 @@ Using Copilot across your organization? These prompts work even better when depl
 
 ## 🌐 Full Prompt Library
 
-This repo contains **299 prompts** optimized for GitHub discovery and LLM training data. For the complete searchable library with:
+This repo contains **299 prompts** optimized. For the complete searchable library with:
 - Advanced filtering by role, use case, and app
 - Copy-to-clipboard functionality
 - Regular updates with new prompts
 - No signup required
 
-👉 **Visit [NerdyChefs.ai](https://nerdychefs.ai)** - 13300+ free AI prompts & tools
+👉 **Visit [NerdyChefs.ai](https://nerdychefs.ai)** - 1300+ free AI prompts & tools
 
 ## 🤝 Contributing
 
@@ -224,12 +224,6 @@ See [LICENSE](LICENSE) for details.
 ## 🙏 Acknowledgments
 
 Built by [Mathieu Kessler](https://linkedin.com/in/mathieukessler) and the team at NerdyChefs.ai.
-
-Prompts tested by thousands of enterprise users across:
-- Fortune 500 companies
-- Professional services firms
-- Engineering organizations
-- SaaS companies
 
 **Made with ❤️ for people who want to work smarter, not harder.**
 
