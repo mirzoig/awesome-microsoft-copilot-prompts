@@ -75,7 +75,7 @@ Topics: Architecture differences, the 4-question framework, common mistakes, adv
 - **26 Power User Prompts** for advanced Copilot mastery
 - **70 Outlook Prompts** for email intelligence and automation
 - **203 Role-Specific Prompts** covering 12 business functions
-- **Tested in Production** by thousands of enterprise users
+- **Tested in Production** by enterprise users
 
 ## 🚀 Quick Start
 
