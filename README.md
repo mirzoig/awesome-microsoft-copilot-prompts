@@ -14,7 +14,6 @@
 - **Copilot-Specific:** Every prompt optimized for Microsoft Copilot
 - **Role-Based:** Organized by job function, not random categories
 - **Enterprise-Ready:** Real prompts from production deployments, not theoretical examples
-- **Context-Aware:** Each prompt includes use case, target personas, and expected outcomes
 - **Zero Fluff:** No "write me a poem about spreadsheets"—these solve actual business problems
 
 ## 🤔 Why ChatGPT Prompts Don't Work in Copilot
