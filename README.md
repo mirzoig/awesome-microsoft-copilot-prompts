@@ -6,7 +6,6 @@
 [![Enterprise](https://img.shields.io/badge/enterprise-tested-purple)](https://kesslernity.com)
 
 > Stop staring at the blank Copilot box. 349 enterprise-tested prompts that actually work—organized by role, not random categories.
-![Awesome Microsoft Copilot Prompts](assets/hero-banner.png)
 
 ## Table of Contents
 - [Quick Start](#-quick-start---universal-prompts)
