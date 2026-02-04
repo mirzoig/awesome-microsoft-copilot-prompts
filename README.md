@@ -17,6 +17,59 @@
 - **Context-Aware:** Each prompt includes use case, target personas, and expected outcomes
 - **Zero Fluff:** No "write me a poem about spreadsheets"—these solve actual business problems
 
+## 🤔 Why ChatGPT Prompts Don't Work in Copilot
+
+**Short answer:** Copilot and ChatGPT are fundamentally different tools. Same AI foundation, completely different capabilities.
+
+### Key Differences
+
+| Feature | ChatGPT | Microsoft Copilot |
+|---------|---------|-------------------|
+| **Data Access** | None - you paste content | Full access to your M365 data (emails, files, meetings) |
+| **Integration** | Standalone chat | Embedded in Office apps |
+| **Actions** | Text responses only | Can edit files, send emails, create charts |
+| **Context** | Conversation only | Your entire work environment |
+| **Safety Mode** | Exploratory | Enterprise-safe (conservative by design) |
+
+### Why This Matters for Prompts
+
+**Generic ChatGPT Prompt:**
+```
+"Summarize my emails from this week"
+```
+❌ **Result:** "I don't have access to your emails. Please paste them here."
+
+**Copilot-Optimized Prompt:**
+```
+"Analyze emails from the last 7 days about the Q2 budget review. 
+Create a summary table with: key decisions, action items, blockers, 
+and budget impact. Format for my VP."
+```
+✅ **Result:** Copilot accesses Outlook directly, analyzes threads with full context, creates formatted output
+
+### Copilot's Strengths & Limitations
+
+**✅ What Copilot Does Well:**
+- Compare multiple documents (PDFs, specs, procedures)
+- Summarize long technical content
+- Cross-reference requirements across files
+- Reason over text-heavy documents
+- Assist with review, clarification, and consistency checks
+
+**⚠️ Known Limitations (By Design):**
+- Conservative with visual analysis (better to say "I don't know" than guess wrong)
+- Limited OCR on complex diagrams, P&IDs, or dense schematics
+- No pixel-level precision on images
+- Strict confidence thresholds (enterprise-safe execution mode)
+
+**🎯 Bottom Line:** Copilot is a production assistant, not an exploratory lab tool. It helps you work faster with your actual data — but humans still validate.
+
+### Want to Master Copilot Prompting?
+
+👉 **[Free Course: Copilot Prompt Engineering](https://www.nerdychefs.ai/copilot/module-7)** - Learn why these prompts work
+
+Topics: Architecture differences, the 4-question framework, common mistakes, advanced techniques.
+
 ## 📊 Quick Stats
 
 - **299 Total Prompts** across 15 specialized collections
