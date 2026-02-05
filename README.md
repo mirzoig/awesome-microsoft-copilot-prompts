@@ -9,7 +9,6 @@
 
 ## Table of Contents
 - [Quick Start](#-quick-start---universal-prompts)
-- [Why ChatGPT Prompts Don't Work](#why-chatgpt-prompts-dont-work-in-copilot)
 - [Browse by Category](#-browse-by-category)
 - [How to Use](#-how-to-use-these-prompts)
 - [Enterprise Deployment](#-enterprise-deployment)
@@ -27,7 +26,7 @@
 - **Enterprise-Ready:** Real prompts from production deployments, not theoretical examples
 - **Zero Fluff:** No "write me a poem about spreadsheets"—these solve actual business problems
 
-## 🤔 Understanding Microsoft Copilot: Enterprise vs. M365
+## Understanding Microsoft Copilot: Enterprise vs. M365
 
 **Short answer:** Microsoft offers two versions of Copilot for business users, each with different capabilities.
 
@@ -269,10 +268,6 @@ and budget impact. Format for executive audience."
 
 ## 🚀 Quick Start - Universal Prompts
 
-[Rest of README continues as normal...]
-
-## 🚀 Quick Start - Universal Prompts
-
 **New to Copilot?** Start here with prompts that work in **BOTH** free Copilot (web) and M365 Copilot.
 
 ### ✨ Works Everywhere
@@ -420,7 +415,7 @@ Copilot learns from context. If the first result isn't perfect, provide feedback
 
 [See all power user prompts →](prompts/power-users/)
 
-## 🏢 Enterprise Deployment
+## Enterprise Deployment
 
 Using Copilot across your organization? These prompts work even better when deployed enterprise-wide.
 
